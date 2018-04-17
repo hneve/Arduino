@@ -1,0 +1,4 @@
+﻿Compiling 'Mega_fotobox_lite' for 'Arduino Mega 2560 or Mega ADK'
+Binary sketch size: 4664 bytes (used 2% of a 258048 byte maximum) (0,20 secs)
+Uploading to I/O board using 'COM6'
+Done uploading

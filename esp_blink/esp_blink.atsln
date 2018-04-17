@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "esp_blink", "esp_blink.cppproj", "{C307B5F7-8521-40B2-A89B-3A88B32C7908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C307B5F7-8521-40B2-A89B-3A88B32C7908}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C307B5F7-8521-40B2-A89B-3A88B32C7908}.Debug|AVR.Build.0 = Debug|AVR
+		{C307B5F7-8521-40B2-A89B-3A88B32C7908}.Release|AVR.ActiveCfg = Release|AVR
+		{C307B5F7-8521-40B2-A89B-3A88B32C7908}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

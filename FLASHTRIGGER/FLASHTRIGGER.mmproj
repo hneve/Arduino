@@ -1,0 +1,10 @@
+<mm_project serial_port="COM4" board="Arduino Uno" programmer="" includePaths="" libPaths="" libs="" default="yes" useCodeAutomation="yes" linkPrintfVersion="1" serialPortSpeed="" >
+  <files>
+    <file name="flashtrigger_main.h" open="yes" />
+    <file name="laser1_2.cpp" open="yes" />
+  </files>
+  <extras>
+  </extras>
+  <externals>
+  </externals>
+</mm_project>

@@ -1,0 +1,6 @@
+pin definitions in main.h
+
+add to project:
+main.h
+lcd_drv.h
+lcd_drv.c
